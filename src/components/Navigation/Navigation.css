@@ -1,0 +1,17 @@
+.nav-bar .menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    list-style: none;
+}
+
+.menu li {
+    padding: 10px;
+}
+
+.menu li:first-child {
+    border: 1px solid black;
+}
