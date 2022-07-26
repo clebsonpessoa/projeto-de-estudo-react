@@ -1,16 +1,9 @@
-import './App.css';
-import Template from './components/Template';
+import './styles/App.css';
 
 function App() {
-  const nome = 'Teste'
-
-  return (
-    <>
-      <Template>
-        teste
-      </Template>
-    </>
-  );
+  return(
+    <h1>React</h1>
+  )
 }
 
-export default App;
+export default App
