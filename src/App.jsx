@@ -1,8 +1,10 @@
+import Home from './pages/Home/Home';
 import './styles/App.css';
+
 
 function App() {
   return(
-    <h1>React</h1>
+    <Home />
   )
 }
 
